@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Hebabo/Hebabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 *I build*: Scalable and responsive web applications.
 - 🌱 *Learning*: Modern frontend frameworks, performance optimization, and accessibility.
-- 👨💻 *Projects*: [Portfolio](https://hebabo.github.io/protofolo/) | [Products API](https://hebabo.github.io/Products/)) | [Other Projects](https://hebabo.github.io/Posts/)
+- 💻 *Projects*: [Portfolio](https://hebabo.github.io/protofolo/) | [Products API](https://hebabo.github.io/Products/)) | [Other Projects](https://hebabo.github.io/Posts/)
 - 💬 *Ask me about*: HTML, CSS, JavaScript, React, or responsive design.
 - 📫 *Reach me*: **hebakhaledsalem223@gmail.com** | <a href="www.linkedin.com/in/heba-allah-khaled-salem-464628361" target="blank">LinkedIn</a>
 
@@ -46,4 +44,4 @@ Here are some ideas to get you started:
 ---
 
 ### *📈 GitHub Stats*  
-[![Hebatullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebabo&show_icons=true&theme=radical)](link here)
+[![Hebatullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hebabo&show_icons=true&theme=radical)]
